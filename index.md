@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Jayaraj Peediyakal Sivadasan
 
-You can use the [editor on GitHub](https://github.com/JAYARAJ2014/jayaraj.net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Technical Lead/Architect experienced in Design, Development, DevOps and Test Automation.
+Customer obsessed and Successful in delivering Microsoft technology based solutions in Healthcare domain. Experienced in IT modernization and technology replatforming.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Microservices Architecture & Patterns
+- REST API  Design & Development
+- Containerization using Docker
+- AWS 
+  - AWS Lambda
+  - S3
+  - Elastic Beanstalk 
+  - ECS
+  - DynamoDB
+  - SQS 
+  - SNS
+  - Cloud Formation
+- Microsoft Azure
+  - Azure DevOps
+  - Azure Functions
+- SQL Server 2016
+- SQL Server Integration Services
+- .NET Framework & .NET Core
+- Single Page applications (AngularJS and Angular)
+- Building CI/CD Pipeline using TFS ,PowerShell and Jenkins
+- Microsoft IIS and Nginx
+- Setting up code scans using SonarQube, Fortify and VeraCode
+- TDD and BDD Development using NUnit ,xUnit ,  SpecFlow / Cucumber & Selenium (C# , Java and Python based)
+- Well versed with Git
+- Human Centered Design
+- B2B integration using SFTP
+- Customer Relationship and working for customer delight.
+- Rally (Agile Central)
+- Confluence
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JAYARAJ2014/jayaraj.net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
