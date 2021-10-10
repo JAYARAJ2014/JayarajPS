@@ -12,6 +12,7 @@ Technical Lead experienced in Design, Development and DevOps
 - Containerization using Docker
 - AWS 
   - AWS Lambda
+  - API Gateway
   - S3
   - Elastic Beanstalk 
   - ECS
