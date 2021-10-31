@@ -6,7 +6,7 @@ Technical Lead experienced in Design, Development and DevOps
 
 - Microservices Architecture & Patterns
 
-- REST API  Design & Development (Javan/Spring Boot,TypeScript/NodeJS,C#/Asp.net Core)
+- REST API  Design & Development 
 
 - Containerization using Docker
 
@@ -25,10 +25,10 @@ Technical Lead experienced in Design, Development and DevOps
     - Azure DevOps
     - Azure Functions
 
-- Programming Languages
-  - Java
-  - C#
-  - TypeScript
+- Programming Languages & Frameworks
+  - Java, Springboot, Spring Data JPA, Junit, Maven
+  - C#, Asp.net Core, EntityFramework, Dapper, NUnit
+  - TypeScript, NodeJS, Express, Jest
   - JavaScript
   - Python
 
@@ -39,9 +39,9 @@ Technical Lead experienced in Design, Development and DevOps
 
 - ETL => SQL Server Integration Services
 
-- Single Page applications ( Angular | React)
+- Single Page applications ( Angular,React)
 
-- Building CI/CD Pipeline (Jenkins , AzureDevOps, AWS CodePipeline)
+- Building CI/CD Pipeline (Jenkins, AzureDevOps, AWS CodePipeline)
 
 - Microsoft IIS and Nginx
 
