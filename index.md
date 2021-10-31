@@ -8,28 +8,32 @@ Technical Lead experienced in Design, Development and DevOps
 
 
 - Microservices Architecture & Patterns
-- REST API  Design & Development
+- REST API  Design & Development (Javan/Spring Boot | TypeScript/NodeJS | C#/Asp.net Core)
 - Containerization using Docker
-- AWS 
-  - AWS Lambda
-  - API Gateway
-  - S3
-  - Elastic Beanstalk 
-  - ECS
-  - DynamoDB
-  - SQS 
-  - SNS
-  - Cloud Formation
-- Microsoft Azure
-  - Azure DevOps
-  - Azure Functions
-- SQL Server 2016
-- DB2
+- Cloud Technologies
+  - AWS 
+    - AWS Lambda
+    - API Gateway
+    - S3
+    - Elastic Beanstalk 
+    - ECS
+    - DynamoDB
+    - SQS 
+    - SNS
+    - Cloud Formation
+  - Microsoft Azure
+    - Azure DevOps
+    - Azure Functions
+- Databases
+  - SQL Server 2016
+  - DB2
+  - MongoDB (using _mongoose_)
 - SQL Server Integration Services
-- Java 11
-- Spring Boot 
-- .NET Core
-- Single Page applications ( Angular)
+Platforms
+  - Java 11
+  - .NET Core
+  - NodeJS
+- Single Page applications ( Angular | React)
 - Building CI/CD Pipeline 
 - Microsoft IIS and Nginx
 - Setting up code scans using SonarQube, Fortify and VeraCode
