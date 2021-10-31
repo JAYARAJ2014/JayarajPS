@@ -1,14 +1,10 @@
 ## Jayaraj Peediyakal Sivadasan
 
-
 Technical Lead experienced in Design, Development and DevOps 
 
-
 ### Skills
-
-
 - Microservices Architecture & Patterns
-- REST API  Design & Development (Javan/Spring Boot | TypeScript/NodeJS | C#/Asp.net Core)
+- REST API  Design & Development (Javan/Spring Boot,TypeScript/NodeJS,C#/Asp.net Core)
 - Containerization using Docker
 - Cloud Technologies
   - AWS 
@@ -40,7 +36,3 @@ Technical Lead experienced in Design, Development and DevOps
 - Microsoft IIS and Nginx
 - Setting up code scans using SonarQube, Fortify and VeraCode
 - TDD and BDD Development
-
-
-
-
