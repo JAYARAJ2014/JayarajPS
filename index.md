@@ -24,17 +24,19 @@ Technical Lead experienced in Design, Development and DevOps
   - Microsoft Azure
     - Azure DevOps
     - Azure Functions
+- Programming Languages
+  - Java
+  - C#
+  - TypeScript
+  - JavaScript
+  - Python
 - Databases
   - SQL Server 2016
   - DB2
   - MongoDB (using _mongoose_)
-- SQL Server Integration Services
-Platforms
-  - Java 11
-  - .NET Core
-  - NodeJS
+- ETL => SQL Server Integration Services
 - Single Page applications ( Angular | React)
-- Building CI/CD Pipeline 
+- Building CI/CD Pipeline (Jenkins , AzureDevOps, AWS CodePipeline)
 - Microsoft IIS and Nginx
 - Setting up code scans using SonarQube, Fortify and VeraCode
 - TDD and BDD Development
