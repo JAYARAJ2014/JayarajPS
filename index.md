@@ -20,6 +20,8 @@ Technical Lead experienced in Design, Development and DevOps with 20 years of in
     - Elastic Beanstalk 
     - ECS
     - DynamoDB
+    - Postgress Serverless
+    - SSM Paramstore
     - SQS 
     - SNS
     - Cloud Formation
@@ -35,7 +37,8 @@ Technical Lead experienced in Design, Development and DevOps with 20 years of in
   - SQL Server 2016
   - DB2
   - MongoDB (using _mongoose_)
-- ETL => SQL Server Integration Services
+- ETL
+    - SQL Server Integration Services
 - Single Page applications ( Angular,React)
 - Building CI/CD Pipeline (Jenkins, AzureDevOps, AWS CodePipeline)
 - Microsoft IIS and Nginx
