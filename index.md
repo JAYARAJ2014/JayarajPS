@@ -1,6 +1,6 @@
 ## Jayaraj Peediyakal Sivadasan
 
-Technical Lead experienced in Design, Development and DevOps with 20 years of industry experience.
+Technical Lead / Architect experienced in Design, Development and DevOps with 20 years of industry experience.
 
 ### Technical Skills
 
