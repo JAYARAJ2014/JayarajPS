@@ -36,7 +36,7 @@ Technical Lead / Architect experienced in Design, Development and DevOps with 20
 - Databases
   - SQL Server 2016
   - DB2
-  - MongoDB (using _mongoose_)
+  - MongoDB 
 - ETL
     - SQL Server Integration Services
 - Single Page applications ( Angular,React)
